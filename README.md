@@ -9,3 +9,7 @@ disable MFA authentication
 
 if  IT department ID choose whene filling form then dynamic assignment..
 ![image](https://user-images.githubusercontent.com/43515480/236658139-dc4f1660-05fa-4e26-ae75-288093832da6.png)
+
+Dynamice user and ..
+![image](https://user-images.githubusercontent.com/43515480/236658170-37a2a7ff-2fc1-4129-9f1d-d5c9a21fbf7c.png)
+![image](https://user-images.githubusercontent.com/43515480/236658187-bc172a0a-78b7-4b84-ab4f-cdfc98855ae9.png)
